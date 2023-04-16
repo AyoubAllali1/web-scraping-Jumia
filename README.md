@@ -1,2 +1,4 @@
-# web scraping Jumia
- for more information visit our web site : https://www.pythonaa.com/
+# web scraping all stores
+ Credit : 
+- Amine0395
+- ytb :Ayoub Allal
